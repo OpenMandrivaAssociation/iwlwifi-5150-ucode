@@ -1,6 +1,6 @@
 %define name iwlwifi-5150-ucode
 %define version 8.24.2.2
-%define release 2
+%define release 3
 
 Summary: Intel PRO/Wireless 5150AGN microcode
 Name: %{name}
