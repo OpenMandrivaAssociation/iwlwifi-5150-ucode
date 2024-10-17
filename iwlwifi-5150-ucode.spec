@@ -9,7 +9,7 @@ Release: %{release}
 Source: http://www.intellinuxwireless.org/iwlwifi/downloads/iwlwifi-5150-ucode-%{version}.tgz
 License: Proprietary
 Group: System/Kernel and hardware
-Url: http://intellinuxwireless.org/
+Url: https://intellinuxwireless.org/
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch: noarch
 
